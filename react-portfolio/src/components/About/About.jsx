@@ -1,4 +1,4 @@
- import React from "react";
+import React from "react";
 
 import { getImageUrl } from "../../utils";
 import styles from "./About.module.css";
@@ -12,26 +12,32 @@ export const About = () => {
           <img src={getImageUrl("about/aboutImage.png")}/>
         </div>
         <div className={styles.rightCol}>
-          <ul> 
+          <ul className={styles.listItems}> 
             <li>
               <img src={getImageUrl("about/cursorIcon.png")}/>
-              <h4>Frontend Developer</h4>
-              <p>I'm a front-end developer with experince in 
-                building responsive and optimized sites</p>
+              <div className={styles.aboutText}>
+                <h4>Frontend Developer</h4>
+                <p>I'm a front-end developer with experince in 
+                  building responsive and optimized sites</p>
+              </div>
             </li>
             
             <li>
               <img src={getImageUrl("about/serverIcon.png")}/>
-              <h4>Frontend Developer</h4>
-              <p>I have experience developing fast and optimzed 
-                back-end systems and API</p>
+              <div className={styles.aboutText}>
+                <h4>Frontend Developer</h4>
+                <p>I have experience developing fast and optimzed 
+                  back-end systems and API</p>
+              </div>
             </li>
             
             <li>
               <img src={getImageUrl("about/uiIcon.png")}/>
-              <h4>Frontend Developer</h4>
-              <p>I have designed multiple landing pages 
-                and have created design systems as well</p>
+              <div className={styles.aboutText}>
+                <h4>Frontend Developer</h4>
+                <p>I have designed multiple landing pages 
+                  and have created design systems as well</p>
+              </div>
             </li>
 
             
