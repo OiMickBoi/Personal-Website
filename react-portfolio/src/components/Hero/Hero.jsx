@@ -11,7 +11,10 @@ export const Hero = () => {
         <div className={styles.description}>
 
         <p>Hey! I'm Josh Boyle, a software engineer who loves 
-            using technology to unravel interesting puzzles – 
+            using technology to unravel interesting puzzles!</p> 
+          {/* 
+          
+          
             whether that's optimizing Pokémon team compositions 
             through machine learning or building scalable web 
             applications. With a foundation in Java and modern 
@@ -28,6 +31,7 @@ export const Hero = () => {
 
         <p>Want to see what I'm building? Check out my latest projects below or join 
             me on my quantum computing journey through my dev logs.</p>
+          */}
         </div>
         <a href="mailto:joshuarb917@gmail.com" className={styles.contactBtn}>
           Contact Me
