@@ -266,3 +266,14 @@ actually 32 minutes in
 
 i think after making this with the tutorial, i should make a figma and website from scratch.
 
+## 1:22 am
+
+making decent progress the css blurs are pretty interesting. i'll have to experiment with them more in the future;
+
+right now having a wierd issue where the button and text is not selectable. probably just misplaced some html tag.
+
+but react is easier than i remember, so this is pretty great. especially after angular. it's like angular without all the boilerplate code.
+
+definetly going to have to do a refresher on javascript however.
+
+
