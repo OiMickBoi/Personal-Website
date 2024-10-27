@@ -61,6 +61,7 @@
   
 }
 
+/* this part makes the hero image float*/
 @keyframes floating {
   0% {
     transform: translate(0, 0px);
@@ -72,6 +73,8 @@
     transform: translate(0, -0px);
   }
 }
+
+/* this part gives the cool blur */
 
 .topBlur {
   position: absolute;
@@ -99,4 +102,14 @@
   background: rgba(25, 55, 109, 0.7);
   filter: blur(100px);
   z-index: 0;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+
+  .content {
+    align-items: center;
+  }
 }

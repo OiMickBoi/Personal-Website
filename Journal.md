@@ -277,3 +277,24 @@ but react is easier than i remember, so this is pretty great. especially after a
 definetly going to have to do a refresher on javascript however.
 
 
+currently at 48:22
+
+
+also finding helix is kinda wierd. i miss certain vim shortcuts so i think i'll try lazygit after this.
+just use that
+maybe i can find a nix flake of it.
+
+## 1:49
+
+took a break and now trying out some lazygit 
+
+
+might just end up using nvim kickstart because all of these messages are annoying
+
+
+## 2:04
+
+too many things were broken back to helix.
+
+might try the flake of kickstart, but helix is pretty simple and no fuss out of the box. which is what i want.
+gonna mix hopping into pars and changing from a simple keystroke though
