@@ -240,3 +240,29 @@ learning about css modules. if two css modules have the same name how to do it s
 
 
   i need to send everthing to git
+
+
+## 10:00 pm
+
+continued with the tutorial. i was hoping to have the basics up tonight so i could add all my own stuff over the weekend. looks
+like that's not happening.
+
+
+## 10:12 pm
+
+i think i need to sit down and learn javascript again
+
+# Oct 27
+## 12:13 am
+
+just starting back into coding this website. only about 10 minutes into a 2 hr tutorial.
+tomorrow is going to be an all day marathon.
+
+
+
+## 12:17 am
+
+actually 32 minutes in
+
+i think after making this with the tutorial, i should make a figma and website from scratch.
+
