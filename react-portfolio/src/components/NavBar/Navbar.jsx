@@ -15,7 +15,7 @@ export const NavBar = () => {
           : getImageUrl("nav/menuIcon.png")
         } 
         alt="menu-button"
-        onClick{() => setMenuOpen(!menuOpen)}
+        onClick={() => setMenuOpen(!menuOpen)}
       />
       <ul className={styles.menuItems}>
         <li><a href="#about">About</a></li>
