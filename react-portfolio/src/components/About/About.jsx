@@ -5,46 +5,45 @@ import styles from "./About.module.css";
 
 export const About = () => {
   return (
-     <section className={styles.container}>
-      <div className={styles.content}>
-        <div className={styles.leftCol}>
-          <h2 className={styles.title}>About</h2>
-          <img src={getImageUrl("about/aboutImage.png")}/>
-        </div>
-        <div className={styles.rightCol}>
-          <ul className={styles.listItems}> 
-            <li>
-              <img src={getImageUrl("about/cursorIcon.png")}/>
-              <div className={styles.aboutText}>
-                <h4>Frontend Developer</h4>
-                <p>I'm a front-end developer with experince in 
-                  building responsive and optimized sites</p>
-              </div>
-            </li>
-            
-            <li>
-              <img src={getImageUrl("about/serverIcon.png")}/>
-              <div className={styles.aboutText}>
-                <h4>Frontend Developer</h4>
-                <p>I have experience developing fast and optimzed 
-                  back-end systems and API</p>
-              </div>
-            </li>
-            
-            <li>
-              <img src={getImageUrl("about/uiIcon.png")}/>
-              <div className={styles.aboutText}>
-                <h4>Frontend Developer</h4>
-                <p>I have designed multiple landing pages 
-                  and have created design systems as well</p>
-              </div>
-            </li>
+     <section className={styles.container} id="about">
+       <h2 className={styles.title}>About</h2>
+       <div className={styles.content}>
+         <img
+           src={getImageUrl("about/aboutImage.png")}
+           alt="Sitting with a laptop"
+           className={styles.aboutImage}
+         />
+           
+         <ul className={styles.aboutItems}>
+           <li className={styles.aboutItem}>
+             <img src={getImageUrl("about/cursorIcon.png")} alt="CursorIcon" />
 
-            
-            
-          </ul>
-        </div>
-      </div>
+               
+             <div className={styles.aboutItemText}>
+               <h3>FrontEnd Developer</h3>
+               <p>I'm a frontend developer with experience in building 
+                 responsive and optmized sites</p>
+             </div>
+           </li>
+
+           <li className={styles.aboutItem}>
+             <img src={getImageUrl("about/serverIcon.png")} alt="ServerIcon"/>
+             <div className={styles.aboutItemText}>
+               <h3>Backend Developer</h3>
+               <p>I have experience developing fast and optimised APIs</p>
+             </div>
+           </li>
+
+           <li className={styles.aboutItem}>
+             <img src={getImageUrl("about/uiIcon.png")} alt="uiIcon"/>
+             <div className={styles.aboutItemText}>
+               <h3>UI Designer</h3>
+               <p>I have designed multiple landing pages and systems as well</p>
+             </div>
+           </li>
+         
+         </ul>
+       </div>
      </section>
   );
 };
