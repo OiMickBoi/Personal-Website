@@ -5,11 +5,11 @@
     "startDate": "Jan 2024",
     "endDate": "May 2024",
     "experiences": [
-      "Lead Optimization: Increased lead conversion rates by over 50%, resulting in substantial cost reductions.",
-      "Marketing Funnel Optimization: Developed and optimized marketing funnels using GoHighLevel to drive conversions.",
-      "Website Development: Created and maintained high-performance WordPress websites."
+      "Increased lead conversion rates by over 50%",
+      "Developed and optimized marketing funnels using GoHighLevel ",
+      "Created and maintained high-performance WordPress sites"
     ],
-    "imageSrc": "history/medspa.jpg"
+    "imageSrc": "history/medspa.png"
   },
   {
     "role": "Undergraduate Web Security Researcher",
@@ -17,9 +17,9 @@
     "startDate": "Sept 2023",
     "endDate": "Jan 2024",
     "experiences": [
-      "Curriculum Development: Designed and implemented cybersecurity labs incorporating cutting-edge research and game theory principles.",
-      "Platform Development: Built interactive lab environments using Ubuntu Virtual Machines to enhance student learning.",
-      "Instructional Design: Created comprehensive Latex documentation, step-by-step guides, and instructional videos to support lab activities."      
+      "Designed and implemented cybersecurity labs incorporating cutting-edge research and game theory principles",
+      "Built interactive lab environments using Ubuntu Virtual Machines to enhance student learning",
+      "Created comprehensive Latex documentation, step-by-step guides, and instructional videos to support lab activities"      
     ],
     "imageSrc": "history/bsu.png"
   },
@@ -29,8 +29,10 @@
     "startDate": "May 2023",
     "endDate": "May 2024",
     "experiences": [
-      "Data Analysis: Collected website traffic data to recommend an 8% salary increase",
-      "Process Improvement: Implemented new technologies to reduce costs and enhance IT efficiency",
+      "Collected and analyzed website traffic",
+      "Implemented new technologies to reduce costs",
+      "Created and maintained high-performance WordPress sites"
+
     ],
     "imageSrc": "history/bsu.png"
   }
