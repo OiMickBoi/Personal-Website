@@ -1,27 +1,27 @@
 [
   {
-    "title": "Personal Website",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest",
-    "skills": ["React", "Vite", "Nix"],
-    "demo": "https://www.joshboyle.org",
-    "source": "https://github.com/OiMickBoi/Personal-Website"
-  },
-  {
-    "title": "instabot",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to fully automate a instagram theme page. It will scrape images and the repost them automatically.",
-    "skills": ["Python", "Nix"],
-    "demo": "",
-    "source": "https://github.com/OiMickBoi/instabot"
-  },
-  {
     "title": "mortgage calculator",
     "imageSrc": "projects/project.png",
     "description": "Final Project for CS401 FullStack Course end result is a simple mortgage calculator",
     "skills": ["Heroku", "HTML", "CSS", "PHP", "JavaScript", "SQL"],
     "demo": "",
     "source": "https://github.com/OiMickBoi/Full-stack-project"
+  },
+  {
+    "title": "Personal Website",
+    "imageSrc": "projects/project.png",
+    "description": "This Website! I programmed this to sharpen my skills in web technologies",
+    "skills": ["React", "Vite", "Nix"],
+    "demo": "https://www.joshboyle.org",
+    "source": "https://github.com/OiMickBoi/Personal-Website"
+    
+  },
+  {
+    "title": "instabot",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to fully automate a instagram theme page. It will scrape images and the repost them automatically. This is still under development",
+    "skills": ["Python", "Nix"],
+    "demo": "",
+    "source": "https://github.com/OiMickBoi/instabot"
   }
-
 ]
