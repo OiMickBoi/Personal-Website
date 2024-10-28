@@ -1,0 +1,42 @@
+[
+  {
+    "role": "Software Developer",
+    "organization": "MedSpaWeb Security  Genius",
+    "startDate": "Jan 2024",
+    "endDate": "May 2024",
+    "experiences": [
+      "Lead Optimization: Increased lead conversion rates by over 50%, resulting in substantial cost reductions.",
+      "Project Collaboration: Contributed to innovative projects focused on AI, customer acquisition, data analysis, and workflow improvements.",
+      "Software Integration: Implemented and optimized complex software integrations (Zapier, Google Data Studio, Facebook API, Hotspot, IFTTT) to streamline operations.",
+      "Marketing Funnel Optimization: Developed and optimized marketing funnels using GoHighLevel to drive conversions.",
+      "Website Development: Created and maintained high-performance WordPress websites."
+    ],
+    "imageSrc": "history/medspa.jpg"
+  },
+  {
+    "role": "Undergraduate Web Security Researcher",
+    "organization": "Boise State University",
+    "startDate": "Sept 2023",
+    "endDate": "Jan 2024",
+    "experiences": [
+      "Curriculum Development: Designed and implemented cybersecurity labs incorporating cutting-edge research and game theory principles.",
+      "Research and Innovation: Conducted in-depth cybersecurity research to replicate and analyze novel attack vectors.",
+      "Platform Development: Built interactive lab environments using Ubuntu Virtual Machines to enhance student learning.",
+      "Instructional Design: Created comprehensive Latex documentation, step-by-step guides, and instructional videos to support lab activities."      
+    ],
+    "imageSrc": "history/bsu.png"
+  },
+  {
+    "role": "Web Developer",
+    "organization": "Boise State University",
+    "startDate": "May 2023",
+    "endDate": "May 2024",
+    "experiences": [
+      "Data Analysis: Collected website traffic data to recommend an 8% salary increase",
+      "Process Improvement: Implemented new technologies to reduce costs and enhance IT efficiency",
+      "Project Management: Coordinated cross-functional teams to develop and publish local business ads",
+      "Content Management: Organized and maintained employee profiles and portfolios." 
+    ],
+    "imageSrc": "history/bsu.png"
+  }
+]
