@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "MedSpa Genius",
+    "startDate": "Jan 2024",
+    "endDate": "May 2024",
+    "experiences": [
+      "Lead Optimization: Increased lead conversion rates by over 50%, resulting in substantial cost reductions.",
+      "Project Collaboration: Contributed to innovative projects focused on AI, customer acquisition, data analysis, and workflow improvements.",
+      "Software Integration: Implemented and optimized complex software integrations (Zapier, Google Data Studio, Facebook API, Hotspot, IFTTT) to streamline operations.",
+      "Marketing Funnel Optimization: Developed and optimized marketing funnels using GoHighLevel to drive conversions.",
+      "Website Development: Created and maintained high-performance WordPress websites."
+    ],
+    "imageSrc": "history/medspa.jpg"
+  },
+]
