@@ -5,22 +5,22 @@
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/css.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/node.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Figma",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/figma.png"
   }
 ]

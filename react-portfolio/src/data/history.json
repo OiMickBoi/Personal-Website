@@ -1,7 +1,7 @@
 [
   {
     "role": "Software Developer",
-    "organisation": "MedSpa Genius",
+    "organization": "MedSpaWeb Security  Genius",
     "startDate": "Jan 2024",
     "endDate": "May 2024",
     "experiences": [
@@ -14,8 +14,8 @@
     "imageSrc": "history/medspa.jpg"
   },
   {
-    "role": "UnderGraduate Researcher",
-    "organisation": "Boise State University",
+    "role": "Undergraduate Web Security Researcher",
+    "organization": "Boise State University",
     "startDate": "Sept 2023",
     "endDate": "Jan 2024",
     "experiences": [
@@ -28,7 +28,7 @@
   },
   {
     "role": "Web Developer",
-    "organisation": "Boise State University",
+    "organization": "Boise State University",
     "startDate": "May 2023",
     "endDate": "May 2024",
     "experiences": [
