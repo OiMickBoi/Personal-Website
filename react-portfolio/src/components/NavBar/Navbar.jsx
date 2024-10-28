@@ -24,6 +24,12 @@ export const NavBar = () => {
         <li><a href="#experience">Experience</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
+        <li>
+          <a href="https://drive.google.com/file/d/135oCLhc1lPvkORAbg6Ml-F_Hxx69BGI-/view?usp=sharing">
+            Resume
+          </a>
+        </li>
+
       </ul>
     </div>
   </nav>;

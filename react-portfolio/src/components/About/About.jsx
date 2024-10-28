@@ -22,7 +22,7 @@ export const About = () => {
              <div className={styles.aboutItemText}>
                <h3>FrontEnd Developer</h3>
                <p>I'm a frontend developer with experience in building 
-                 responsive and optmized sites</p>
+                 responsive and optmized sites for companies like Micron</p>
              </div>
            </li>
 
@@ -30,15 +30,16 @@ export const About = () => {
              <img src={getImageUrl("about/serverIcon.png")} alt="ServerIcon"/>
              <div className={styles.aboutItemText}>
                <h3>Backend Developer</h3>
-               <p>I have experience developing fast and optimised APIs</p>
+               <p>With a B.S. from Boise I have experience developing fast and optimised backend
+                 apps in Java</p>
              </div>
            </li>
 
            <li className={styles.aboutItem}>
              <img src={getImageUrl("about/uiIcon.png")} alt="uiIcon"/>
              <div className={styles.aboutItemText}>
-               <h3>UI Designer</h3>
-               <p>I have designed multiple landing pages and systems as well</p>
+               <h3>Quantum Computing</h3>
+               <p>I am currently teaching myself quantum computing and developing an app to visualize quantum states</p>
              </div>
            </li>
          
